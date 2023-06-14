@@ -23,20 +23,20 @@
     }
   ],
   "social": {
-    "glitch": "https://glitch.com/",
+    "glitch": "https://glitch.com/coding98html",
     "arena":"",
     "bandcamp": "",
     "cohost":"",
     "dev": "https://dev.to/glitch",    
     "facebook": "",
-    "github": "https://github.com/glitchdotcom",
+    "github": "https://github.com/coding98html",
     "gitlab": "",
     "hashnode": "",
     "instagram": "",
     "keybase":"",
     "kofi": "",
     "letterboxd":"",
-    "linkedin": "https://www.linkedin.com/company/fog-creek-software",
+    "linkedin": "",
     "mastodon": "",
     "medium": "",
     "patreon": "",
@@ -47,11 +47,11 @@
     "spotify": "",
     "stackoverflow": "",
     "substack": "",
-    "twitter": "https://twitter.com/glitch",
+    "twitter": "",
     "twitch": "",
     "tiktok": "",
     "tumblr": "",
-    "youtube": "https://www.youtube.com/c/GlitchDotCom",
-    "email": "support@glitch.com"
+    "youtube": "",
+    "email": "privatecoder@duck.com"
   }
 }
