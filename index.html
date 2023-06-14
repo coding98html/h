@@ -2,7 +2,11 @@
 <html lang="en">
   <head>
     <title>{{ settings.metaTitle }}</title>
-    
+    fetch(URL)
+  // get the JSON data
+  .then(response => response.json())
+  // use (display) the JSON data
+  .then(data => console.log(data))
     {{> head }}
     
     <!--- THEMES: in settings.json change 'glitch' to 'gallery', 'menu', or any other theme in the layout/themes folder --->
